@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a common error: accessing an element in a vector that is out of bounds. The `bug.rs` file shows the code with the error, resulting in a runtime panic. The `bugSolution.rs` provides a corrected version that handles the potential error gracefully, preventing the panic.
